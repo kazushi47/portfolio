@@ -3,6 +3,7 @@
 短い説明で伝わりにくいところもあるかと思い大変恐縮ですが、最後までご覧頂けたら幸いです。
 
 ## 買ったものSNS - Webサービス
+![](https://user-images.githubusercontent.com/61966044/114744554-c6b81d00-9d88-11eb-9cb5-9bf9fb87988f.png)
 Webサイト→https://kattamono-sns.an.r.appspot.com/  
 GitHub→https://github.com/kazushi47/kattamono-sns  
   
