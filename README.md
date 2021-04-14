@@ -35,3 +35,17 @@ GitHub→https://github.com/kazushi47/kattamono-sns
 - 例えばTypeScriptの素晴らしさなどの開発中に感銘を受けることが多々あったので記事にまとめてアウトプットしていきたかった
 
 以上の反省点を踏まえて、次回の開発に活かしたいと思っている。
+
+## GitHubの使い方を解説 - GitHub Wiki
+![](https://user-images.githubusercontent.com/61966044/114750158-a12e1200-9d8e-11eb-89dd-d6f0cb4ec14e.png)
+GitHub→https://github.com/kazushi47/HowToGitHub  
+
+### 概要
+友達にGitHubを布教するために書いたGitHubの使い方をGitHub Wikiにまとめたもの。  
+環境構築〜プルリクエストまでを解説している。  
+
+### 振り返り
+実際に友達に使ってもらうことができたのでよかった。  
+解説の際には初心者ということを考慮し自らの経験からGitコマンドを使わないGitHub Desktopを採用したのがよかった。  
+他のプログラミング言語などの技術でも、経験して自分の意見がまとまれば積極的に記事にして公開していきたいと思った。  
+
